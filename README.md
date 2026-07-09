@@ -26,10 +26,7 @@ The project includes a testbench (`spi_wrapper_tb.v`) and a ModelSim/QuestaSim D
 
 ### Running with ModelSim/QuestaSim
 1. Open ModelSim or QuestaSim.
-2. Navigate to the project directory in the transcript/console:
-   ```tcl
-   cd d:/Digital_Design/Project2_SPI
-   ```
+2. Navigate to the project directory in the transcript/console.
 3. Execute the provided simulation script:
    ```tcl
    do run.do
